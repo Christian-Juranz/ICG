@@ -1,6 +1,6 @@
 /*******************************************************************************
  * Copyright (c) 2013 Henrik Tramberend, Marc Latoschik.
- * All rights reserved.
+ * All rights reserved.test
  *******************************************************************************/
 package ogl.cube;
 
